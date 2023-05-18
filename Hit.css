@@ -1,0 +1,216 @@
+.navbar-brand 
+{
+    width: 153px;
+    height: 108px;
+}
+.nav-item a 
+{
+    font-size: 25px;
+    margin-left: 75px;
+}
+.container-fluid 
+{
+    padding-bottom: 20px;
+}
+.main 
+{
+    margin-left: 120px;
+    font-size: 35px;
+}
+footer 
+{
+    height: 250px;
+}
+.control 
+{
+    margin-left: 150px;
+    font-size: 35px;
+}
+.hit 
+{
+    margin-left: 180px;
+    font-size: 35px;
+}
+.feints 
+{
+    margin-left: 210px;
+    font-size: 35px;
+}
+header 
+{
+    width: 100%;
+    height: 85px;
+}
+.hit1
+{
+    font-size: 52px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.cyrcle 
+{
+    font-size: 52px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.text1 
+{
+    font-size: 35px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.text2
+{
+    font-size: 35px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.text3 
+{
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 70px; 
+}
+.text4 
+{
+    font-size: 43px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.text5 
+{
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 70px; 
+}
+.line1 
+{
+    background-color: black;
+    margin-top: 60px;
+    height: 1px;
+    width: 100%;
+}
+.line2 
+{
+    background-color: black;
+    margin-top: 30px;
+    height: 1px;
+    width: 100%;
+}
+.line3 
+{
+    background-color: black;
+    margin-top: 30px;
+    height: 1px;
+    width: 100%;
+}
+.line4 
+{
+    background-color: black;
+    margin-top: 60px;
+    height: 1px;
+    width: 100%;
+}
+.knuckleball 
+{
+    font-size: 52px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.photohit20 
+{
+    width: 604px;
+    height: 281px;
+}
+.photohit2 
+{
+    display: flex;
+    justify-content: center;
+}
+.ccilka3 
+{
+    color: black;
+    font-size: 35px;
+    text-decoration: none;
+}
+.ccilka 
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+}
+.photohit 
+{
+    display: flex;
+    justify-content: center;
+}
+.hitt 
+{
+    width: 604px;
+    height: 281px;
+}
+
+@media (max-width: 768px)
+{
+    .hit1
+    {
+        width: 90%;
+        font-size: 40px;
+        margin-top: 20px;
+        margin-left: 15px;
+    }
+    .text1 
+    {
+        width: 90%;
+        font-size: 30px;
+        margin-top: 40px;
+        margin-left: 15px;
+    }
+    .text2
+    {
+        width: 90%;
+        font-size: 30px;
+        margin-top: 40px;
+        margin-left: 15px;
+    }
+    .text3 
+    {
+        width: 90%;
+        font-size: 30px;
+        margin-top: 20px;
+        margin-left: 15px; 
+    }
+    .text4 
+    {
+        width: 90%;
+        font-size: 30px;
+        margin-top: 20px;
+        margin-left: 15px;
+    }
+    .text5 
+    {
+        width: 90%;
+        font-size: 30px;
+        margin-top: 20px;
+        margin-left: 15px; 
+    }
+    .hitt 
+    {
+        width: 302px;
+        height: 140px;
+    }
+ 
+    .photohit20 
+    {
+           width: 302px;        
+           height: 140px; 
+    } 
+
+    .cyrcle 
+    {
+        width: 90%;
+        font-size: 40px;
+        margin-top: 30px;
+        margin-left: 15px;
+    }
+}

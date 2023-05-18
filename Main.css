@@ -1,0 +1,119 @@
+.navbar-brand {
+    width: 153px;
+    height: 108px;
+}
+
+.container-fluid img {
+   margin-left: 50px; 
+}
+
+ .container-fluid {
+    padding-bottom: 20px;
+}
+
+.nav-item a
+{
+  font-size: 25px;
+  margin-left: 75px;
+}    
+
+
+footer {
+    height: 250px;
+}
+
+
+
+header {
+    width: 100%;
+    height: 85px;
+}
+
+.football {
+    font-size: 52px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.text1 {
+    font-size: 35px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.text2 {
+    font-size: 35px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.text3 {
+    font-size: 35px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.text4 {
+    font-size: 43px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.text5 {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 70px; 
+}
+
+.line1 {
+    background-color: black;
+    margin-top: 60px;
+    height: 1px;
+    width: 100%;
+}
+
+.line2 {
+    background-color: black;
+    margin-top: 30px;
+    height: 1px;
+    width: 100%;
+}
+
+@media (max-width: 768px)
+{
+    .football
+    {
+        width: 90%;
+        font-size: 40px;
+        margin-left: 15px;
+    }
+    .text1
+    {
+        width: 90%;
+        font-size: 30px;
+        margin-left: 15px;
+    }
+    .text2
+    {
+        width: 90%;
+        font-size: 30px;
+        margin-left: 15px;
+    }
+    .text3
+    {
+        width: 90%;
+        font-size: 30px;
+        margin-left: 15px;
+    }
+    .text4
+    {
+        width: 90%;        
+        font-size: 30px;
+        margin-left: 15px;
+    }
+    .text5
+    {   
+        width: 90%;
+        font-size: 30px;
+        margin-left: 15px;
+    }
+}
